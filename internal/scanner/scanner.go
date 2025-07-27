@@ -1,7 +1,7 @@
 package scanner
 
 import (
-	"fmt"
+	// "fmt"
 	"net"
 	"strconv"
 	"sync"

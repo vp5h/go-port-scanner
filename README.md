@@ -29,10 +29,10 @@ go mod tidy
 You can run the port scanner by executing the following command:
 
 ```bash
-go run cmd/main.go <target_host> <start_port> <end_port>
+go run cmd/main.go <target_host>
 ```
 
-Replace `<target_host>` with the IP address or hostname of the target, and `<start_port>` and `<end_port>` with the range of ports you want to scan.
+Replace `<target_host>` with the IP address or hostname of the target
 
 ## Examples
 
